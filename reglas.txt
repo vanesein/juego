@@ -1,3 +1,8 @@
 reglas 1
 regla2
 reglas 3
+
+
+----
+reglas 4
+reglas5
