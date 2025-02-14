@@ -1,2 +1,5 @@
 print("hola")
 print("chao")
+print("mundo")
+print("soy")
+print("vanesssa")
