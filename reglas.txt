@@ -1,0 +1,3 @@
+reglas 1
+regla2
+reglas 3
